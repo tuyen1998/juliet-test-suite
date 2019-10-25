@@ -22,4 +22,4 @@ mvn compile
 [![](https://codescene.io/projects/5785/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5785/jobs/latest-successful/results)
 
 # Kritika
-[![Kritika Analysis Status](https://kritika.io/users/nngocgioi2712/repos/8558534363077688/heads/master/status.svg?type=score%2Bcoverage%2Bdeps)](https://kritika.io/users/nngocgioi2712/repos/8558534363077688/heads/master/)
+
