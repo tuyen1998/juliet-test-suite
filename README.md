@@ -19,7 +19,7 @@ mvn compile
 
 # CodeScene
 
-[![](https://codescene.io/projects/5785/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5814/jobs/16469/results)
+[![](https://codescene.io/projects/5814/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5814/jobs/16469/results)
 
 # Kritika
 
