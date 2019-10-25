@@ -22,4 +22,4 @@ mvn compile
 [![](https://codescene.io/projects/5814/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5814/jobs/16469/results)
 
 # Kritika
-
+Đang chạy vui lòng đợi https://kritika.io/users/tuyen1998/repos/1698678289022683/snapshots/1/
